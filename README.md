@@ -16,12 +16,12 @@ Building God Spirit Realm
 
 # My Project
 
-## Watch this video
+## Non-Dualism - None Chief Living
 
-[![My Cool Video](https://img.youtube.com/vi/ReI_iw320Gw/0.jpg)](https://youtu.be/ReI_iw320Gw?si=yPXkOzivWlyQ0nlR)
+[![My Cool Video](https://img.youtube.com/vi/MqkeFXJLklI/0.jpg)](https://youtu.be/MqkeFXJLklI?si=UErJwRzJnMa8bXOP)
 
 ## Description
-This is a project about...
+This is the Way to Living
 
 
 

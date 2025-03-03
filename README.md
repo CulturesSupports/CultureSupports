@@ -93,7 +93,7 @@ We believe that the teachings of Jesus Christ offer profound insights and guidan
    - **Application**: Development of communication platforms that promote kindness, empathy, and constructive dialogue. Creating algorithms that prioritize positive interactions and reduce online harassment.
 
 2. **Matthew 25:35-40** - "For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in, I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me."
-   - **Application**: Building applications and systems to support social welfare initiatives such as food distribution networks, healthcare services, and community support platforms that facilitate helping those in need.
+   - **Application**: Building applications and systems to support social welfare initiatives such as food distribution networks, healthcare services, and community support platform that facilitate helping those in need in name of jesus christ Lord.
 
 3. **Matthew 5:14-16** - "You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead, they put it on its stand, and it gives light to everyone in the house."
    - **Application**: Creating open-source projects that encourage transparency and sharing of knowledge. Developing educational tools and resources that empower individuals and communities.

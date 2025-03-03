@@ -8,9 +8,7 @@ Building God Spirit Realm
 
 -------------
 
-
-[![YouTube Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([[[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/bUSMn69W8T8?si=FPPlRWAqaC-jk697)](https://youtu.be/bUSMn69W8T8?si=FPPlRWAqaC-jk697)](https://youtu.be/bUSMn69W8T8?si=FPPlRWAqaC-jk697))
-
+[![Video Title](https://img.youtube.com/vi/hwryCf5PvCc/0.jpg)](https://youtu.be/hwryCf5PvCc?si=ewiDem-M9lSAIwoj)
 
 -------------------
 -------------------

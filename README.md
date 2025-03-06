@@ -3,35 +3,6 @@
 ----------
 
 
-Building God Spirit Realm
-
-
--------------
-
-[![Video Title](https://img.youtube.com/vi/ReI_iw320Gw/0.jpg)](https://youtu.be/ReI_iw320Gw?si=uEdUatzNhplwxmR7)
-
-
--------------------
-
-
-# My Project
-
-## Non-Dualism - None Chief Living
-
-[![My Cool Video](https://img.youtube.com/vi/MqkeFXJLklI/0.jpg)](https://youtu.be/MqkeFXJLklI?si=UErJwRzJnMa8bXOP)
-
-## Description
-This is the Way to Living
-
-
-
--------------------
-
--------------------
-
-
--------------------
-
 
 
 
